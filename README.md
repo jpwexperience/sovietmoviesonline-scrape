@@ -1,7 +1,7 @@
 # sovietmoviesonline-scrape
-Python script for downloading films from sovietmoviesonline.com
+Python script for downloading films from sovietmoviesonline.com. Testing done in Ubuntu 18.04 using python3.
 
-Usage: $python3 flickscrape.py input.xml
+Usage: $ python3 flickscrape.py input.xml
 
 Takes a single XML file that contains a sitemap of movie urls, gets relevant information (year, title, director, etc), exports information to a CSV, and then presents the option to download files.
  

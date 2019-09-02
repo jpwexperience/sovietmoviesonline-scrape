@@ -1,5 +1,5 @@
 # sovietmoviesonline-scrape
-Python script for downloading films from sovietmoviesonline.com. Testing done in Ubuntu 18.04 using python3.
+Python script for downloading films from sovietmoviesonline.com.
 
 Usage: $ python3 flickscrape.py input.xml
 
@@ -11,3 +11,5 @@ Bugs:
 Some films on the site are broken into separate parts and thus have appended characters that are not taken into account.
 
 Some CSV entries are not proper.
+
+Always a work in progress.

@@ -205,7 +205,7 @@ def main():
 
     xmlInput = sys.argv[1]
     if not os.path.isfile(xmlInput):
-        print("The fuck, this is not a file")
+        print("This is not a file")
         exit(1)
     else:
         inSplit = xmlInput.split('.')

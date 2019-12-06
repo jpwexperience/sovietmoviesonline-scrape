@@ -1,4 +1,4 @@
-# sovietmoviesonline-scrape
+# Soviet Movies Online Scrape
 Python script for downloading films from sovietmoviesonline.com.
 
 Usage: $ python3 flickscrape.py input.xml
@@ -12,4 +12,4 @@ Some films on the site are broken into separate parts and thus have appended cha
 
 Some CSV entries are not proper.
 
-Always a work in progress.
+### An improved version of this script is available in my [FlickScrape](https://github.com/jpwexperience/flickscrape) repository.
